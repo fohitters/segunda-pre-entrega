@@ -1,0 +1,77 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #D9D9D9;
+    height: 100%;
+}
+header{
+    background-color: #046699;
+}
+footer{
+    background-color: #046699;
+    margin-top: 20px;
+}
+.copyright p{
+    font-size: x-small;
+    color: white;
+}
+.red a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.815);
+    font-size: 100%;
+}
+
+/* INDEX */
+.logo{
+    width: 100px;
+}
+.paradoruno img{
+    width: 100%;
+    margin: 20px 0;
+}
+.textoparadoruno{
+    background-color: #046699;
+    color: rgba(255, 255, 255, 0.815);
+    padding: 5px;
+}
+.paradordos img{
+    width: 100%;
+    margin:20px 0 ;
+}
+.textoparadordos{
+    background-color: #046699;
+    color: rgba(255, 255, 255, 0.815);
+    padding: 5px;
+    
+}
+/* SOBRE NOSOTROS */
+.entradaparador{
+    margin: 20px 0 0 0;
+}
+.informacion h4{
+    background-color: #046699;
+    color: rgba(255, 255, 255, 0.815);
+    padding: 10px;
+}
+/* SERVICIOS Y PRODUCTOS */
+.textoanfibia h4{
+    background-color: #046699;
+    color: #D9D9D9;
+    margin: 20px 0px;
+    padding: 10px;
+}
+.textocarpas h4{
+    background-color: #046699;
+    color: #D9D9D9;
+    margin: 20px 0px;
+    padding: 10px;
+}
+/* OPINION DE CLIENTES */
+.card img{
+    height: 40em;
+}
+/* CONTACTOS */
+.textoform{
+    background-color: #046699;
+    color: #D9D9D9;
+    
+}
